@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: custom
-        image: rohit9417/24aprilimage
+        image: rohit9417/proj2
         ports:
         - containerPort: 80
